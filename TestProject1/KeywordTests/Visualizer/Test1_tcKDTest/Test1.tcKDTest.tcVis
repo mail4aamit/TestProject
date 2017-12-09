@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{0628CB78-EBEB-40CF-A0C3-E8138C7C0DB7}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="43078.8287962963" objectName="Aliases.browser.pageWwwGoogleCoUk.formTsf.textboxLstIb" objectLeft="556" objectTop="619" objectRight="1311" objectBottom="670" clickPointX="725" clickPointY="653" imageFileName="tcvi912745393680.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43078.8288078704" objectName="Aliases.browser.pageWwwGoogleCoUk.formTsf.textboxLstIb" objectLeft="556" objectTop="619" objectRight="1311" objectBottom="670" clickPointX="-1" clickPointY="-1" imageFileName="tcvi912790693682.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="43078.8290856481" objectName="Aliases.browser.pageWwwGoogleCoUk.formTsf.submitbuttonGoogleSearch" objectLeft="753" objectTop="726" objectRight="942" objectBottom="780" clickPointX="890" clickPointY="742" imageFileName="tcvi915240693689.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
